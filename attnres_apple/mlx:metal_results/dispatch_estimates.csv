@@ -1,0 +1,4 @@
+impl,dispatch_count,notes
+B1_naive,5,per depth_attention call
+B3_two_phase,17,phase1(7) + phase2_ref(10)
+B4_fused,10,phase1(7) + phase2_fused(3)
